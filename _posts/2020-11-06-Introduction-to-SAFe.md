@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome....l!"
+title:  "Welcome!"
+date: 2020-11-06
 ---
 
 # Welcome to SAFe Agile introdcution
